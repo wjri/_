@@ -1,6 +1,7 @@
 --[[
 ace attorney ruiner / aar (v2)
 basically a troll script for ace attorney
+keep this shit private cus ace attorney programmers might fix this
 commands list;
 	aar.freeze.enable() freezes the server
 	aar.freeze.disable() unfreezes the server
